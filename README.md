@@ -110,4 +110,4 @@ brokjson.brok2geo(brokJsonObject)
 `GeoJSON` as a `Dictionary`
 
 ## Full Spec and other languages
-Have a look at https://www.brokjson.dev
+Have a look at https://simonhuwiler.github.io/brokJSON/
